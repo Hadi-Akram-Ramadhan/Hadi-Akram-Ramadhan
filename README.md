@@ -4,10 +4,9 @@
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
-            <li>👨‍🎓 I'm learning Django at the moment</li>
+            <li>👨‍🎓 I'm learning Django, Laravel, & Adonis at the moment</li>
             <li>💬 Ask me about anything you want</li>
-            <li>📫 How to reach me: fjcopati@gmail.com</li>
-            <li>💼 I had a 4-month internship at the company GIRE S.A.</li>
+            <li>📫 How to reach me: kk.hadi.akram@gmail.com</li>
         </ul>
     </h3>
 </header>
@@ -21,12 +20,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
     </div>
 </div>

@@ -1,34 +1,44 @@
-# Welcome to Hadi's GitHub 👋
+<img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
+<header align="left">
+    <h1 align="left">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h3 align="left">
+        <ul>
+            <li>🔭 I'm currently figuring out what to specialize in</li>
+            <li>👨‍🎓 I'm learning Django at the moment</li>
+            <li>💬 Ask me about anything you want</li>
+            <li>📫 How to reach me: fjcopati@gmail.com</li>
+            <li>💼 I had a 4-month internship at the company GIRE S.A.</li>
+        </ul>
+    </h3>
+</header>
+<hr>
+<div align="center">
+    <h2 align="center">Used Technologies</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
+    </div>
+    <h2 align="center">Used IDE's</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+    </div>
+</div>
+<hr>
+<footer align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=francojimenezcopati&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojimenezcopati&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+    </p>
+</footer>
 
-Hey there! I'm Hadi Akram Ramadhan, a passionate programmer with a knack for creating clean, efficient, and robust code. Whether it's building a full-fledged web application or a small script to automate tasks, I'm always up for the challenge. 
+------
 
-## 👨‍💻 About Me
-
-- 💼 Currently working on a web-based attendance system.
-- 🔧 Experienced in PHP, JavaScript, MySQL, and various web technologies.
-- 🌱 Continuously learning and exploring new technologies to stay ahead in the tech world.
-- 🎨 Enjoy designing modern, responsive, and user-friendly interfaces.
-- 🛠️ Love solving complex problems with simple and elegant solutions.
-
-## 🚀 Projects
-
-Here are some of the projects I've been working on:
-
-### 1. Web-Based Attendance System
-A full-featured web application for managing attendance with real-time photo capture, geolocation tagging, and secure user authentication.
-
-### 2. Task Reporting System
-A robust system for reporting and tracking tasks with support for file uploads, timestamps, and real-time updates.
-
-## 📫 How to Reach Me
-
-Feel free to connect with me on:
-- [Email](mailto:hadooyy90@gmail.com)
-
-## ⚡ Fun Fact
-
-When I'm not coding, you can find me exploring new tech trends, tinkering with gadgets, or enjoying a good book.
-
----
-
-Thanks for stopping by! I hope you find my projects interesting and useful. If you have any questions or suggestions, feel free to reach out. Happy coding! 🚀
+Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
+Last Edited on: 10/01/2024

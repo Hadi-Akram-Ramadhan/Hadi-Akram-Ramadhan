@@ -10,21 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Akram-Ramadhan&style=for-the-badge&color=blueviolet" alt=""/>
 </p>
 
-<p align="center"><em>Fullstack Developer | Bug Negotiator | Kopi Senja Enthusiast</em></p>
+<p align="center"><em>Fullstack Developer | Bug Whisperer | Kopi Senja Enthusiast</em></p>
 
 ---
 
-### 👨‍💻 About Gw
+### 👨‍💻 About Gw (Lebih Seru dari Bio Tinder)
 
-- 🔭 Lagi nyari framework yang ga bikin pusing
-- 🌱 Belajar bikin app yang user-friendly (buat user dan developernya)
-- 💬 Tanya aja, kalo ga bisa jawab ya... googling bareng
-- 📫 Hubungi gw: kk.hadi.akram@gmail.com
-- ⚡ Fun fact: Bisa ngetik 200 WPM... dalam mimpi
+- 🔭 Nyari framework yang ga bikin pusing 7 keliling
+- 🌱 Bikin app yang bikin user ketagihan, bukan kebingungan
+- 💬 Tanya aja, kalo ga bisa jawab ya... kita googling bareng
+- 📫 Hubungi: kk.hadi.akram@gmail.com (Lebih cepet dari Gojek, lebih lambat dari Flash)
+- ⚡ Fun fact: Bisa debug sambil tidur (dalam mimpi)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack (Senjata Pamungkas)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools (Bukan Toolbox Tukang Ya!)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Bukan KPI Kerja Ya!)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadi-Akram-Ramadhan&show_icons=true&theme=radical"/>
@@ -60,16 +60,40 @@
 
 ---
 
-### 🎨 Contribution Graph
+### 🎨 Contribution Canvas (Bukan Lukisan Abstrak Ya!)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi-Akram-Ramadhan&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hadi-Akram-Ramadhan&theme=dracula&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Akram-Ramadhan&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🎭 Mood Gw Hari Ini
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hadi-Akram-Ramadhan/Hadi-Akram-Ramadhan/main/mood.gif" width="100" height="100" alt="Mood GIF"/>
+</p>
+
+---
+
+### 💡 Quotes of the Day
+
+<p align="center">
+  <em>"Kode tanpa kopi itu kaya hidup tanpa jodoh: bisa sih, tapi hampa."</em>
+</p>
+
 ---
 
 <p align="center">
-  <em>Suka ngobrol sama sesama developer! Yuk sharing, siapa tau bisa jadi partner bikin app keren 😎</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Suka ngobrol sama fellow devs!</b> Yuk connect, siapa tau jadi partner bikin startup unicorn! 🦄</em>
 </p>
 
 ⭐️ From [Hadi Akram Ramadhan](https://github.com/Hadi-Akram-Ramadhan)

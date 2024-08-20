@@ -19,7 +19,7 @@
 - 🔭 Nyari framework yang ga bikin pusing 7 keliling
 - 🌱 Bikin app yang bikin user ketagihan, bukan kebingungan
 - 💬 Tanya aja, kalo ga bisa jawab ya... kita googling bareng
-- 📫 Hubungi: kk.hadi.akram@gmail.com (Lebih cepet dari Gojek, lebih lambat dari Flash)
+- 📫 Hubungi: kk.hadi.akram@gmail.com (Fast respon kalo topiknya ada fulus nya)
 - ⚡ Fun fact: Bisa debug sambil tidur (dalam mimpi)
 
 ---

@@ -79,7 +79,7 @@
 ### 🎭 Mood Gw Hari Ini
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hadi-Akram-Ramadhan/Hadi-Akram-Ramadhan/main/mood.gif" width="100" height="100" alt="Mood GIF"/>
+  <img src="https://img.shields.io/badge/Mood-Coding%20Machine-brightgreen?style=for-the-badge" alt="Mood"/>
 </p>
 
 ---

@@ -20,7 +20,7 @@
 - 🌱 Bikin app yang bikin user ketagihan, bukan kebingungan
 - 💬 Tanya aja, kalo ga bisa jawab ya... kita googling bareng
 - 📫 Hubungi: kk.hadi.akram@gmail.com (Fast respon kalo topiknya ada fulus nya)
-- ⚡ Fun fact: Bisa debug sambil tidur (dalam mimpi)
+- ⚡ Fun fact: Ahli debug code (dalam mimpi)
 
 ---
 

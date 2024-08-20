@@ -55,9 +55,21 @@
 
 ---
 
-### 🐍 Contribution Graph (Ular Makan Bug)
+<!-- Ganti bagian Contribution Graph dengan ini -->
 
-![Snake animation](https://github.com/Hadi-Akram-Ramadhan/Hadi-Akram-Ramadhan/blob/output/github-contribution-grid-snake.svg)
+### 🎨 Contribution Canvas (Karya Seni Gw)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi-Akram-Ramadhan&theme=react-dark&hide_border=true&area=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hadi-Akram-Ramadhan&theme=dracula&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Akram-Ramadhan&theme=dark&hide_border=true" />
+</p>
 
 ---
 

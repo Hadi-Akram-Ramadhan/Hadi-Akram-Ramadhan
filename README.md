@@ -79,7 +79,7 @@
 ### 🎭 Mood Gw Hari Ini
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mood-Coding%20Machine-brightgreen?style=for-the-badge" alt="Mood"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </p>
 
 ---

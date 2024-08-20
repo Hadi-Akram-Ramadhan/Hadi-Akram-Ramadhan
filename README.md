@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Halo Gaes! Gw Hadi 🚀🔥</h1>
+<h1 align="center">Yo, What's Up Folks! I'm Hadi 🚀🔥</h1>
 
 <p align="center">
   <a href="https://github.com/Hadi-Akram-Ramadhan"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
@@ -10,21 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Akram-Ramadhan&style=for-the-badge&color=blueviolet" alt=""/>
 </p>
 
-<p align="center"><em>Fullstack Developer | Bug Whisperer | Kopi Senja Enthusiast</em></p>
+<p align="center"><em>Fullstack Developer | Bug Whisperer | Sunset Coffee Enthusiast</em></p>
 
 ---
 
-### 👨‍💻 About Gw (Bukan Bio Tinder Ya!)
+### 👨‍💻 About Me (Not a Tinder Bio, I Promise!)
 
-- 🔭 Lagi nyari jodoh... eh, maksudnya jalan hidup di dunia coding
-- 🌱 Lagi belajar bikin app yang ga bikin user nyesel download
-- 💬 Tanya aja apa aja, kalo gw ga bisa jawab ya... kita googling sambil nangis bareng 😂
-- 📫 Hubungi gw: kk.hadi.akram@gmail.com (DM buat ngajak ngopi lebih cepet dibales)
-- ⚡ Fun fact: Gw bisa ngetik 200 WPM... kalo lagi typo
+- 🔭 Currently searching for my soulma... I mean, my path in the coding universe
+- 🌱 Learning to create apps that users won't regret downloading
+- 💬 Ask me anything, if I can't answer, we'll Google and cry together 😂
+- 📫 Reach me at: kk.hadi.akram@gmail.com (Coffee invite DMs get priority responses)
+- ⚡ Fun fact: I can type 200 WPM... when I'm making typos
 
 ---
 
-### 🛠 Tech Stack (Senjata Buat Perang Sama Bug)
+### 🛠 Tech Stack (My Weapons Against the Bug Army)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🔧 Tools (Bukan Toolbox Tukang Ya!)
+### 🔧 Tools (Not Your Average Toolbox)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats (Bukan KPI Kerja Ya!)
+### 📊 GitHub Stats (Not My Work KPIs, I Swear!)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadi-Akram-Ramadhan&show_icons=true&theme=radical"/>
@@ -60,7 +60,7 @@
 
 ---
 
-### 🎨 Contribution Canvas (Bukan Lukisan Abstrak Ya!)
+### 🎨 Contribution Canvas (Not an Abstract Painting)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi-Akram-Ramadhan&theme=react-dark&hide_border=true&area=true" width="100%">
@@ -76,7 +76,7 @@
 
 ---
 
-### 🎭 Mood Gw Hari Ini (Tergantung Kerjaan Numpuk Apa Engga)
+### 🎭 My Mood Today (Depends on How Many Bugs Are in My Code)
 
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=emoji&text=🤪" />
@@ -84,7 +84,7 @@
 
 ---
 
-### 💡 Quotes of the Day (Bukan Kata-kata Bucin Ya!)
+### 💡 Quotes of the Day (Not Your Typical Instagram Wisdom)
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -93,7 +93,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Gw suka banget ngobrol sama sesama developer!</b> Kalo lo mau sharing-sharing atau ngopi bareng, <b>gw bakal seneng banget bisa kenal lo!</b> Siapa tau bisa jadi partner in crime buat bikin app yang bikin orang auto kaya 🤑</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love chatting with fellow developers!</b> If you want to share ideas or grab a coffee, <b>I'd be thrilled to meet you!</b> Who knows, we might end up creating an app that makes everyone rich overnight 🤑</em>
 </p>
 
 ⭐️ From [Hadi Akram Ramadhan](https://github.com/Hadi-Akram-Ramadhan)
+
+this readme originally made by Hadi Akram Ramadhan! so proud of my self..

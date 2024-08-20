@@ -10,21 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Akram-Ramadhan&style=for-the-badge&color=blueviolet" alt=""/>
 </p>
 
-<p align="center"><em>Fullstack Developer | Bug Negotiator | Kopi Senja Connoisseur</em></p>
+<p align="center"><em>Fullstack Developer | Bug Negotiator | Kopi Senja Enthusiast</em></p>
 
 ---
 
-### 👨‍💻 About Gw (Warning: Konten Lebih Receh dari Indomie)
+### 👨‍💻 About Gw
 
-- 🔭 Lagi nyari framework yang ga bikin migrain
-- 🌱 Belajar bikin app yang ga bikin user pengen lempar hape ke laut
-- 💬 Tanya aja apa aja, kalo gw ga bisa jawab, kita bisa pura-pura restart otak bareng
-- 📫 Hubungi gw: kk.hadi.akram@gmail.com (Balesnya lebih cepet dari Gojek, tapi lebih lama dari kecepatan cahaya)
-- ⚡ Fun fact: Gw bisa ngetik 200 WPM... kalo lagi typo
-  
+- 🔭 Lagi nyari framework yang ga bikin pusing
+- 🌱 Belajar bikin app yang user-friendly (buat user dan developernya)
+- 💬 Tanya aja, kalo ga bisa jawab ya... googling bareng
+- 📫 Hubungi gw: kk.hadi.akram@gmail.com
+- ⚡ Fun fact: Bisa ngetik 200 WPM... dalam mimpi
+
 ---
 
-### 🛠 Tech Stack (Senjata Buat Perang Sama Deadline)
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🔧 Tools (Bukan Alat Masak Ya, Meski Kadang Bikin Panas Juga)
+### 🔧 Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats (Bukan Nilai Rapor, Jadi Jangan Ditanya Ortu Ya)
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadi-Akram-Ramadhan&show_icons=true&theme=radical"/>
@@ -60,40 +60,16 @@
 
 ---
 
-### 🎨 Contribution Canvas (Lukisan Abstract yang Harganya Lebih Mahal dari Gaji Gw)
+### 🎨 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi-Akram-Ramadhan&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hadi-Akram-Ramadhan&theme=dracula&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Akram-Ramadhan&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 🎭 Mood Gw Hari Ini (Tergantung Berapa Kali Kode Gw Error)
-
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=emoji&text=🤪" />
-</p>
-
----
-
-### 💡 Quotes of the Day (Bukan Kata-kata Bucin, Tapi Kata-kata Bucinners)
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Gw suka banget ngobrol sama sesama developer!</b> Kalo lo mau sharing-sharing atau ngopi bareng, <b>gw bakal seneng banget bisa kenal lo!</b> Siapa tau bisa jadi partner in crime buat bikin app yang bikin kita berdua jadi tajir melintir 🤑 (Syarat & ketentuan berlaku, hasil tidak dijamin, bisa menyebabkan kantong bolong)</em>
+  <em>Suka ngobrol sama sesama developer! Yuk sharing, siapa tau bisa jadi partner bikin app keren 😎</em>
 </p>
 
 ⭐️ From [Hadi Akram Ramadhan](https://github.com/Hadi-Akram-Ramadhan)

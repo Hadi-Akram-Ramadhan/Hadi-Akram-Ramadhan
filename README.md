@@ -55,8 +55,6 @@
 
 ---
 
-<!-- Ganti bagian Contribution Graph dengan ini -->
-
 ### 🎨 Contribution Canvas (Karya Seni Gw)
 
 <p align="center">
@@ -69,6 +67,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Akram-Ramadhan&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🎭 Mood Gw Hari Ini
+
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=emoji&text=🤪" />
 </p>
 
 ---

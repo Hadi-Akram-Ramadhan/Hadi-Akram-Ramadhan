@@ -12,6 +12,11 @@
 
 <p align="center"><em>Fullstack Developer | Bug Whisperer | Kopi Senja Enthusiast</em></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🙈 Ssstt...-Repo%20Gw%20Private%20Semua-ff69b4?style=for-the-badge" alt="Private Repos"/>
+</p>
+<p align="center"><em>Maaf ya gaes, repo gw private semua. Bukan sok keren, cuma malu-maluin aja kodenya 😅</em></p>
+
 ---
 
 ### 👨‍💻 About Gw (Lebih Seru dari Bio Tinder)

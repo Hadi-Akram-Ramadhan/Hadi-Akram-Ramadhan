@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Hoy Gengss! Gw Hadi, Si Tukang Ketik Ajaib 🧙‍♂️💻</h1>
+<h1 align="center">Halo Gaes! Gw Hadi 🚀🔥</h1>
 
 <p align="center">
   <a href="https://github.com/Hadi-Akram-Ramadhan"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
@@ -10,43 +10,48 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Akram-Ramadhan&style=for-the-badge&color=blueviolet" alt=""/>
 </p>
 
-<p align="center"><em>Fullstack Developer | Ahli Bikin Error | Manusia Setengah Kopi</em></p>
+<p align="center"><em>Fullstack Developer | Bug Whisperer | Kopi Senja Enthusiast</em></p>
 
 ---
 
-### 👨‍💻 About Gw (Baca: Curhatan Developer Gabut)
+### 👨‍💻 About Gw (Bukan Bio Tinder Ya!)
 
-- 🔭 Lagi nyari jodoh... eh, maksudnya nyari bug buat diperbaiki
-- 🌱 Lagi belajar Django, Laravel, & Adonis (sambil nangis bombay)
-- 💬 Tanya aja apa aja, kalo gw ga bisa jawab ya... kita sama-sama bingung 🤷‍♂️
-- 📫 Hubungi gw: kk.hadi.akram@gmail.com (jangan spam ya, inbox gw udah penuh sama newsletter yang ga pernah gw baca)
-- ⚡ Fun fact: Gw bisa bikin code yang work di localhost tapi error di production. Skill langka!
+- 🔭 Lagi nyari jodoh... eh, maksudnya jalan hidup di dunia coding
+- 🌱 Lagi belajar bikin app yang ga bikin user nyesel download
+- 💬 Tanya aja apa aja, kalo gw ga bisa jawab ya... kita googling sambil nangis bareng 😂
+- 📫 Hubungi gw: kk.hadi.akram@gmail.com (DM buat ngajak ngopi lebih cepet dibales)
+- ⚡ Fun fact: Gw bisa ngetik 200 WPM... kalo lagi typo
 
 ---
 
-### 🛠 Tech Stack (Baca: Alat Penyiksa Diri)
+### 🛠 Tech Stack (Senjata Buat Perang Sama Bug)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> (C-nya C aja, ga sampe C++, apalagi A++)
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> (C# buat yang suka pake tagar)
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/> (Bukan kopi ya)
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> (Hypertext Markup Language, bukan Hubungan Mesra Luar biasa ya)
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> (Cascading Style Sheet, bukan Cascading Stress Syndrome)
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> (Bukan bahasa Jawa)
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> (Ular yang ga gigit, tapi bikin pusing)
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🔧 Tools (Alias Barang Rongsokan Kesayangan)
+### 🔧 Tools (Bukan Toolbox Tukang Ya!)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> (Tempat gw bikin magic... dan bugs)
-  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> (Guru sejati para programmer)
-  <img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/> (Tempat gw nyari jawaban ujian... eh, maksudnya solusi coding)
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor-00A98F?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats (Jangan Diintip! Aib Nih!)
+### 📊 GitHub Stats (Bukan KPI Kerja Ya!)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadi-Akram-Ramadhan&show_icons=true&theme=radical"/>
@@ -55,7 +60,7 @@
 
 ---
 
-### 🎨 Contribution Canvas (Lukisan Abstrak Ala Programmer)
+### 🎨 Contribution Canvas (Bukan Lukisan Abstrak Ya!)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi-Akram-Ramadhan&theme=react-dark&hide_border=true&area=true" width="100%">
@@ -71,7 +76,7 @@
 
 ---
 
-### 🎭 Mood Gw Hari Ini (Tergantung Berapa Kali Kode Gw Error)
+### 🎭 Mood Gw Hari Ini (Tergantung Kerjaan Numpuk Apa Engga)
 
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=emoji&text=🤪" />
@@ -79,7 +84,7 @@
 
 ---
 
-### 💡 Quotes of the Day (Buat Penyemangat Sebelum Ngoding)
+### 💡 Quotes of the Day (Bukan Kata-kata Bucin Ya!)
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -88,7 +93,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eh lu! Iya lu!</b> Kalo lu juga suka bikin error kayak gw, yuk ngobrol! Siapa tau kita bisa collab bikin project yang lebih error lagi. HAHA just kidding... unless? 👀</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Gw suka banget ngobrol sama sesama developer!</b> Kalo lo mau sharing-sharing atau ngopi bareng, <b>gw bakal seneng banget bisa kenal lo!</b> Siapa tau bisa jadi partner in crime buat bikin app yang bikin orang auto kaya 🤑</em>
 </p>
 
-⭐️ From [Hadi Akram Ramadhan](https://github.com/Hadi-Akram-Ramadhan) (dengan bangga mempersembahkan README paling receh se-GitHub)
+⭐️ From [Hadi Akram Ramadhan](https://github.com/Hadi-Akram-Ramadhan)

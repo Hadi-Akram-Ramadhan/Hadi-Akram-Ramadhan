@@ -16,12 +16,12 @@
 
 ### 👨‍💻 About Gw (Warning: Konten Lebih Receh dari Indomie)
 
-- 🔭 Lagi nyari jodoh... eh, maksudnya framework yang ga bikin stress
-- 🌱 Belajar bikin app yang ga bikin user pengen banting hape
+- 🔭 Lagi nyari framework yang ga bikin migrain
+- 🌱 Belajar bikin app yang ga bikin user pengen lempar hape ke laut
 - 💬 Tanya aja apa aja, kalo gw ga bisa jawab, kita bisa pura-pura restart otak bareng
-- 📫 Hubungi gw: kk.hadi.akram@gmail.com (Balesnya lebih cepet dari FoodPanda, tapi lebih lama dari kecepatan cahaya)
-- ⚡ Fun fact: Gw bisa ngetik 200 WPM... dalam mimpi
-
+- 📫 Hubungi gw: kk.hadi.akram@gmail.com (Balesnya lebih cepet dari Gojek, tapi lebih lama dari kecepatan cahaya)
+- ⚡ Fun fact: Gw bisa ngetik 200 WPM... kalo lagi typo
+  
 ---
 
 ### 🛠 Tech Stack (Senjata Buat Perang Sama Deadline)

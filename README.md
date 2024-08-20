@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Halo Gaes! Gw Hadi 🚀🔥</h1>
+<h1 align="center">Halo Gais! Gw Hadi 🚀🔥</h1>
 
 <p align="center">
   <a href="https://github.com/Hadi-Akram-Ramadhan"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🙈 Ssstt...-Repo%20Gw%20Private%20Semua-ff69b4?style=for-the-badge" alt="Private Repos"/>
 </p>
-<p align="center"><em>Maaf ya gaes, repo gw private semua. Bukan sok keren, cuma malu-maluin aja kodenya 😅</em></p>
+<p align="center"><em>Maaf ya gais, repo gw private semua. Bukan sok keren, cuma malu-maluin aja kodenya 😅</em></p>
 
 ---
 

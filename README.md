@@ -56,15 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats (Bukan Hasil Pemilu Ya!)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadi-Akram-Ramadhan&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-Akram-Ramadhan&layout=compact&theme=radical"/>
-</p>
-
----
-
 ### 🎨 Contribution Canvas (Bukan Lukisan Abstrak Ya!)
 
 <p align="center">

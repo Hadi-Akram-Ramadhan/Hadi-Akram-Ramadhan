@@ -10,12 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Akram-Ramadhan&style=for-the-badge&color=blueviolet" alt=""/>
 </p>
 
-<p align="center"><em>Fullstack Developer | Bug Whisperer | Kopi Senja Enthusiast</em></p>
+<p align="center"><em>Fullstack Developer | Bug Whisperer</em></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🙈 Ssstt...-Repo%20Gw%20Private%20Semua-ff69b4?style=for-the-badge" alt="Private Repos"/>
-</p>
-<p align="center"><em>Maaf ya gais, repo gw private semua. Bukan sok keren, cuma malu-maluin aja kodenya 😅</em></p>
 
 ---
 
@@ -53,7 +49,7 @@
 ### 💡 Quotes of the Day
 
 <p align="center">
-  <em>"Kode tanpa kopi itu kaya hidup tanpa jodoh: bisa sih, tapi hampa."</em>
+  <em>"Ngoding terus, udah solat belum?"</em>
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, gua Hadi! 👋
+# Hey there, I'm Hadi! 👋
 
 ### Full-Stack Developer & Backend Enthusiast based in Indonesia 🇮🇩
 
@@ -17,14 +17,14 @@
 
 ---
 
-### 🚀 Tentang Gua
+### 🚀 About Me
 
-Programmer yang doyan ngulik sistem backend, ngerancang database yang efisien, dan bikin aplikasi web yang tahan banting. Prinsip gua: **clean code, scalable, dan sat-set**.
+I'm a software developer who enjoys tinkering under the hood—building resilient backend systems, designing efficient databases, and shipping clean web applications. My core principle: **keep code clean, modular, and fast**.
 
-- 🔭 **Lagi fokus**: Ngulik high-concurrency systems, server optimization, dan arsitektur aplikasi skala besar.
-- 🛠️ **Daily drivers**: PHP/Laravel, JavaScript/TypeScript, Node.js, Vue, dan ekosistem SQL/Redis.
-- 🎮 **Side quests**: Kadang nyemplung ke mobile apps pake Flutter dan iseng eksplor game dev di Unity / Godot.
-- 💬 **Tanya gua soal**: Backend logic, database indexing, RESTful APIs, atau tips debug yang ga bikin pusing 7 keliling.
+- 🔭 **Current Focus**: High-concurrency architectures, server optimization, and building scalable full-stack applications.
+- 🛠️ **Daily Drivers**: PHP/Laravel, JavaScript/TypeScript, Node.js, Vue.js, and SQL/Redis data layers.
+- 🎮 **Side Quests**: Building cross-platform mobile apps with Flutter and experimenting with indie game engines (Unity / Godot).
+- 💬 **Ask me about**: Backend logic, database indexing, RESTful APIs, or profiling queries to squeeze out that extra 50ms.
 
 ---
 
@@ -51,7 +51,7 @@ Programmer yang doyan ngulik sistem backend, ngerancang database yang efisien, d
 
 ---
 
-### 🐍 Snake Eating My Contributions
+### 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hadi-Akram-Ramadhan/Hadi-Akram-Ramadhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />

@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Hadi! 👋
+## Some of my repositories are private :D
 
 ### Full-Stack Developer & Backend Enthusiast based in Indonesia 🇮🇩
 
